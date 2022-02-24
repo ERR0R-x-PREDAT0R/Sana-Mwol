@@ -15,35 +15,25 @@ Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message,
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/iqfW5XR.jpg";
+    r_text[0] = "https://www.linkpicture.com/q/Toxic-Alexa.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝⦁━►
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝TOXIC ALEXA💝⦁━►
 
 
-*Oᴡɴᴇʀ number Aʙᴜ* :https://wa.me/917025868709.
+*Oᴡɴᴇʀ number* :https://wa.me/919383491460.
             
 
-*Oᴡɴᴇʀ number Sᴀɴᴀ* :https://wa.me/919605385305.
+*Gɪᴛ Lɪɴᴋs* : https://github.comERR0R-x-PREDAT0R/Toxic-Alexa.
 
 
-*Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Sᴀɴᴀ Mᴡᴏʟ* :https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk_.
 
-
-*Gɪᴛ Lɪɴᴋs* : https://github.com/Ajx-Abu/Sana-Mwol.
-
-
-*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Ajx-Abu/sana-media/tree/main/bgm.
-
-
-*sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Ajx-Abu/sana-media/tree/main/stickers.
-
-◄━⦁💝 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝⦁━►
-■□ ~💙 𝐀𝐁𝐔 ❤️I💙 𝐒𝐀𝐍𝐀 ❤️~■□ 
+◄━⦁💝TOXIC ALEXA💝⦁━►
+■□ ~©ʙʏ ᴀʟɪɴsʜᴀɴ~■□ 
 
 `}) 
 
