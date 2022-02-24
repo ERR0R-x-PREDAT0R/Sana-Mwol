@@ -84,7 +84,7 @@ All setvars are
  💌To change bad word remove list
  .setvar THERI_LIST:badword,badword
 
- 💌To change AMALSER bot name
+ 💌To change bot name
  .setvar BOT_NAME:your bot name
 
  💌To get a song when your number is mentioned
@@ -92,7 +92,7 @@ All setvars are
 
     □■□©ʙʏ ᴀʟɪɴsʜᴀɴ■□■□
 
-      ════💝TOXIC ALEXA💝═════
+     ════💝TOXIC ALEXA💝═════
 `}) 
 
 }));
