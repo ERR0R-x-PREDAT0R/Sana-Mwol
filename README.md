@@ -43,6 +43,12 @@ Project created by <a href="https://github.com/ERR0R-x-PREDAT0R">ALINSHAN</a>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERR0R-x-PREDAT0R/Toxic-Alexa/)
 ----------
 
+<div align="center">
+<br>
+       
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERR0R-x-PREDAT0R&repo=Toxic-Alexa&theme=nightowl)](https://github.com/ERR0R-x-PREDAT0R/Toxic-Alexa)
+  </div>
+  
 ----------
 ## Developers
   <div align="center">
