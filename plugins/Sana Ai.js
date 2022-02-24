@@ -244,10 +244,10 @@ if (conf.LANG == 'TR') {
 }
 if (conf.LANG == 'EN') {
     fulleva_dsc = 'Activates full functional Sana features. Turn your account into a ai chatbot!'
-    already_on = 'Sana artificial intelligence is already fully functional.'
-    already_off = 'Sana artificial intelligence is currently running semi-functional.'
-    succ_on = 'Sana Opened Fully Functionally! Please wait a bit! ✅'
-    succ_off = 'Sana Set to Semi-Functional! Please wait a bit! ☑️'
+    already_on = 'Alexa artificial intelligence is already fully functional.'
+    already_off = 'Alexa artificial intelligence is currently running semi-functional.'
+    succ_on = 'Alexa Opened Fully Functionally! Please wait a bit! ✅'
+    succ_off = 'Alexa Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'ML') {
     fulleva_dsc = 'പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായ Sana സവിശേഷതകൾ സജീവമാക്കുന്നു. നിങ്ങളുടെ അക്കൗണ്ട് ഒരു ചാറ്റ്ബോട്ടാക്കി മാറ്റുക!'
@@ -257,8 +257,8 @@ if (conf.LANG == 'ML') {
     succ_off = 'സെമി-ഫങ്ഷണൽ ആയി Sana സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
 }
 
-Asena.addCommand({ pattern: 'sanu on ?(.*)', desc: fulleva_dsc, fromMe: true,dontAddCommandList: true, usage: '.sanu on / off' }, (async (message, match) => {
-    var sanu_status = `${conf.TALKING_SANA}`
+Asena.addCommand({ pattern: 'alexa on ?(.*)', desc: fulleva_dsc, fromMe: true,dontAddCommandList: true, usage: '.alexa on / off' }, (async (message, match) => {
+    var sanu_status = `${conf.TALKING_ALEXA}`
     if (match[1] == 'on') {
         if (sanu_status == 'true') {
             return await message.client.sendMessage(message.jid, '*' + already_on + '*', MessageType.text)
@@ -266,7 +266,7 @@ Asena.addCommand({ pattern: 'sanu on ?(.*)', desc: fulleva_dsc, fromMe: true,don
         else {
             await heroku.patch(baseURI + '/config-vars', { 
                 body: { 
-                    ['TALKING_SANA']: 'true'
+                    ['TALKING_ALEXA']: 'true'
                 } 
             });
             await message.client.sendMessage(message.jid, '*' + succ_on + '*', MessageType.text)
@@ -279,7 +279,7 @@ Asena.addCommand({ pattern: 'sanu on ?(.*)', desc: fulleva_dsc, fromMe: true,don
         else {
             await heroku.patch(baseURI + '/config-vars', { 
                 body: { 
-                    ['TALKING_SANA']: 'false'
+                    ['TALKING_ALEXA']: 'false'
                 } 
             });
             await message.client.sendMessage(message.jid, '*' + succ_off + '*', MessageType.text)
