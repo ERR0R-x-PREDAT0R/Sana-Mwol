@@ -17,13 +17,13 @@ Asena.addCommand({pattern: 'insta ?(.*)', fromMe: false, desc: "Downloads from i
     var reply = await message.client.sendMessage(message.jid, LOAD_ING , MessageType.text, { quoted: message.data });
     
    const { status, type, data } = await instagram(match[1], 'julie')
-    if (!status) return await message.sendMessage('✅️Example:-\n\n*Change /reel/ to /p/ Then give Command .insta*\n\n*Any doubt ask to Nijin or Husni*')
+    if (!status) return await message.sendMessage('✅️Example:-\n\n*Change /reel/ to /p/ Then give Command .insta*')
 
     reply = await message.client.sendMessage(message.jid,UPLOAD_ING , MessageType.text, { quoted: message.data });
     
-    if (type === 'image') return await message.sendMessage(data, MessageType.image, { caption: "*Codded by Sana Mwol*", quoted: message.data })
+    if (type === 'image') return await message.sendMessage(data, MessageType.image, { caption: "*By Toxic Alexa*", quoted: message.data })
     
-    if (type === 'video') return await message.sendMessage(data, MessageType.video, { caption: "*Codded by Sana Mwol*", quoted: message.data })
+    if (type === 'video') return await message.sendMessage(data, MessageType.video, { caption: "*By Toxic Alexa*", quoted: message.data })
     
 });
     
