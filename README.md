@@ -1,28 +1,29 @@
 <div align="center">
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/W6iMjZ5.png>
-</p>
+<img src="https://www.linkpicture.com/q/1645439321233.png"
  </a>
-</p>
+  </p>
+   </p>
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐀𝐍𝐀+𝐌𝐖𝐎𝐋+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐀𝐁𝐔+𝘼𝙉𝘿+𝐒𝐀𝐍𝐀;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
- </a>
-</p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/SR8Y0SK.jpeg" alt="GIF" width="310" height="290"/>
+<img src="https://www.linkpicture.com/q/Toxic-Alexa.jpg" alt="GIF" width="310" height="290"/>
 </p>
-
+<a href="#"><img title="Toxic-Alexa" src="https://img.shields.io/badge/-Toxic%20Alexa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
   <p align="center">
-<a href="#"><img title="Sana" src="https://img.shields.io/badge/Abu-Sana-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/ERR0R-x-PREDAT0R"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ALINSHAN-grey%2Fblue?color=blue&style=for-the-badge&logo=whatsapp">
+</p>
+  <p align="center"> 
+  <a href="https://wa.me/919383491460"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 </div>
 <p align="center">
-𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐒𝐀𝐍𝐀 𝐀𝐍𝐃 𝐀𝐁𝐔
+Project created by <a href="https://github.com/ERR0R-x-PREDAT0R">ALINSHAN</a>
     <br>
        | © |
         Reserved |
@@ -30,26 +31,31 @@
 </p>
 
 
+----------
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+TOXIC+ALEXA+WA+BOT+REPO.;CREATED+BY+ALINSHAN;THIS+IS+A+BGM+STICKER+BOT;WITH+MORE+FEATURES)
+----------
+## Setup
+<div align="center">
 
-<a href="https://github.com/Ajx-Abu/Sana-Mwol/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://replit.com/@ALINSHAN/ABU-SER-QR?v=1"><img align="center" src="https://repl.it/badge/github/quiec/whatsAlfa" alt="Scan QR" /></a>
 <br>
-<div>
-<a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Sana-Mwol"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
-   <br>
-<div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.githubusercontent.com/Ajx-Abu/c68a8ccac838005277a28d658469162a)   
- 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERR0R-x-PREDAT0R/Toxic-Alexa/)
+----------
+
+----------
+## Developers
+  <div align="center">
+    
+  [![ERR0R-x-PREDAT0R](https://github.com/ERR0R-x-PREDAT0R.png?size=275)](https://github.com/ERR0R-x-PREDAT0R) |  
+----|
+[ALINSHAN](https://github.com/ERR0R-x-PREDAT0R)  |  
+Base, Bug Fixes, Modules  | 
   </div>
-<a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
+    
+----------
 
-##
-  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
-<p align="center">
-CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/UPo3niq.png" alt="kyrie.baran" height="50" width="300" /></a>
-</p> 
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+  
+
