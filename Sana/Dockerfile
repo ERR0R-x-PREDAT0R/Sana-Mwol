@@ -1,6 +1,6 @@
 FROM Ajx-Abu/Sana-Mwol:latest
 
-RUN git clone https://github.com/Ajx-Abu/Sana-Mwol /root/sana
+RUN git clone https://github.com/ERR0R-x-PREDAT0R/Toxic-Alexa /root/sana
 WORKDIR /root/sana/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
